@@ -1,0 +1,25 @@
+
+/*#walrus-hidden {
+  display: none;
+} This was in the code originally, but we took this out because it wasn't necesssary and it was conflicting with other elements(I think)
+*/
+
+#walrus-showing {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+/* #walrus-fadein {
+
+}
+*/
+
+#walrus-fadein {
+  display: none;
+}
